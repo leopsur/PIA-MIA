@@ -23,3 +23,20 @@ class CuentaBancaria:
         print(f"Retiro exitoso de ${cantidad}. Saldo restante: ${self._saldo}")
         return True
 
+    def ingresar(self,cantidad):
+
+        if cantidad <=0:
+            print('Cantidad invalida')
+            return False
+
+        self._saldo += cantidad
+        return True
+
+
+
+
+c=CuentaBancaria('Pepe',200)
+
+print(c.ingresar(2000))
+
+print(c.saldo)
