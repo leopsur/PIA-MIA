@@ -1,0 +1,15 @@
+fecha,producto,unidades,precio_unitario,vendedor
+2026-01-07,teclado,3,24.90,ana
+2026-01-07,raton,2,12,50,leo
+2026-01-08,monitor,,189.00,eva
+07/01/2026,teclado,1,24.90,ana
+2026-01-09,portatil,1,899.99,leo
+2026-01-09,raton,cuatro,12.50,eva
+2026-01-10,monitor,2,189.00,
+2026-01-10,cable,10,3.75,ana
+2026-01-11,teclado,-2,24.90,leo
+2026-01-11,portatil,1,899,99,eva
+2026-01-12,altavoz,4,45.00,ana
+2026-01-12,cable,6,3.75,leo
+2026-01-13,monitor,1,189.00,eva
+2026-01-13,teclado,2,24.90,ana
